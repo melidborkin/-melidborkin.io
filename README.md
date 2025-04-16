@@ -1,8 +1,4 @@
 # VD | Maqueta inicial web (HTML, CSS, Svelte)
-
-<!-- image .md -->
-![VD](thumbnail.png)
-
 ---
 
 ## Estructura de archivos:
