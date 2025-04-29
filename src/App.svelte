@@ -103,7 +103,7 @@
         <img src="/images/BotellaTipo.svg" alt="Botella tipo" style="height: {altura(63)}px;"/>
       </div>
       <p class="leyenda">
-        Las latas representan magnitudes menores a 70. Las botellas representan magnitudes mayores a 70. 
+        Las latas representan magnitudes menores a 70. Las botellas representan magnitudes mayores a 70. <br>
         El tamaño de cada envase, junto a cada número, reflejan el impacto simbólico dentro de la evolución publicitaria de la marca o el moto invertido en millones de USD.
       </p> 
       <hr class="linea-roja1" />
