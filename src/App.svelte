@@ -103,8 +103,8 @@
         <img src="/images/BotellaTipo.svg" alt="Botella tipo" style="height: {altura(63)}px;"/>
       </div>
       <p class="leyenda">
-        El tamaño de cada envase, junto a cada número, reflejan el impacto simbólico dentro de la evolución publicitaria de la marca o el moto invertido en millones de USD <br>
-        Las latas representan impactos menores a 70. Las botellas representan impactos mayores a 70.
+        Las latas representan magnitudes menores a 70. Las botellas representan magnitudes mayores a 70. 
+        El tamaño de cada envase, junto a cada número, reflejan el impacto simbólico dentro de la evolución publicitaria de la marca o el moto invertido en millones de USD.
       </p> 
       <hr class="linea-roja1" />
     </section>
