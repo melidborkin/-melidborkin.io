@@ -81,7 +81,7 @@
           <li><a href="#Hallazgo clave">Hallazgo clave</a></li>
           <li><a href="#Impacto">Impacto</a></li>
           <li><a href="#Reglas del éxito">Reglas del éxito</a></li>
-          <li><a href="#Datos">Reglas del éxito</a></li>
+          <li><a href="#Datos">Datos</a></li>
         </ul>
       </nav>
     {/if}
